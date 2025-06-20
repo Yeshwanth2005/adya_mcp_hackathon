@@ -1,7 +1,7 @@
 
 ---
 
-###   *About MCP Server, Features, and Capabilities*
+
 ```markdown
 # WordPress MCP Server Overview
 
